@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"algorithm"},{"l":"All Packages","u":"allpackages-index.html"},{"l":"classifier"},{"l":"controller"},{"l":"data"},{"l":"histogram"},{"l":"navigator"},{"l":"user_interface"}];updateSearchResults();
