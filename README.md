@@ -1,14 +1,11 @@
 # Graph Route Finder
-
-JavaFX desktop application for converting map/satellite images into graph grids, classifying terrain cells, comparing maps, and visualising pathfinding algorithms.
+- JavaFX desktop application for converting map/satellite images into graph grids, classifying terrain cells, comparing maps, and visualising pathfinding algorithms.
 
 ## Youtube video link
-
-https://youtu.be/91B3uDSFwfQ
+- https://youtu.be/91B3uDSFwfQ
 
 ## Project Structure
-
-|---ALL_STAR_MINI_PROJECT_2026/
+- |---ALL_STAR_MINI_PROJECT_2026/
   |---bin/
   |---dist/
     |---AllStar.jar
@@ -61,7 +58,6 @@ https://youtu.be/91B3uDSFwfQ
 
 
 ## Requirements
-
 - Java JDK 21 or compatible
 - JavaFX SDK 21
 - `dist/weka.jar` included in this project
